@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classy.iml" filepath="$PROJECT_DIR$/Classy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirG.iml" filepath="$PROJECT_DIR$/FirG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../USB DISK/6 семестр (текущий)/Практикум по виду профессиональной деятельности/Мусор/GUI2.iml" filepath="$PROJECT_DIR$/../../../USB DISK/6 семестр (текущий)/Практикум по виду профессиональной деятельности/Мусор/GUI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kol.iml" filepath="$PROJECT_DIR$/Kol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../USB DISK/6 семестр (текущий)/Практикум по виду профессиональной деятельности/Мусор/classes.iml" filepath="$PROJECT_DIR$/../../../USB DISK/6 семестр (текущий)/Практикум по виду профессиональной деятельности/Мусор/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../USB DISK/6 семестр (текущий)/Практикум по виду профессиональной деятельности/Мусор/collections.iml" filepath="$PROJECT_DIR$/../../../USB DISK/6 семестр (текущий)/Практикум по виду профессиональной деятельности/Мусор/collections.iml" />
+    </modules>
+  </component>
+</project>
